@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning advanced techniques in modern web development and staying updated with the latest trends in full-stack development.  
 - 💞️ I’m looking to collaborate on exciting web development projects or open-source initiatives where I can contribute with my skills.  
 - 📫 How to reach me: Feel free to connect with me via [LinkedIn](#) or email me at rozn.rasho333@gmail.com 
-- ⚡ Fun fact: I live in Köln, Germany, and I love blending creativity and code to solve real-world problems!  
+- ⚡ Fun fact: I live in Oer-Erkenschwick, Germany, and I love blending creativity and code to solve real-world problems!  
 
 
 <h3>   🛠️ Languages and Tools:</h3>
@@ -26,7 +26,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun)
@@ -41,9 +40,9 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
-![BALTASARGD's github stats](https://github-readme-stats.vercel.app/api?username=BALTASARGD&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BALTASARGD&theme=tokyonight" alt="mystreak"/>
-![BALTASARGD's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BALTASARGD&theme=tokyonight&layout=compact)
+![Roznrasho's github stats](https://github-readme-stats.vercel.app/api?username=Roznrasho&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Roznrasho&theme=tokyonight" alt="mystreak"/>
+![Roznrasho's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roznrasho&theme=tokyonight&layout=compact)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/>
